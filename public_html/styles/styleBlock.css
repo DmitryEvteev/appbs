@@ -1,0 +1,71 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 27, 2024, 11:43:34 AM
+    Author     : User
+*/
+body{
+    font-family: verdana;
+    color: crimson;
+}
+div{
+    /* display: block; */
+    font-family: times;
+    font-size: 12pt;
+}
+p{
+    font-family: verdana;
+    font-size: 16pt;
+}
+#header{
+    border-bottom: 1px solid lightgreen;
+    background-color: #13f3ff;
+    height: 100px;
+    font-size: 20pt;
+    text-align: center;
+}
+
+#wrapper{
+    background-color: #11ef77;
+}
+
+#sidebarLeft{
+    float: left;
+    background-color: #efe00f;
+    margin-top: 0px;
+    width: 160px;;
+    text-align: center;
+}
+
+#sidebarRight{
+    float: right;
+    background-color: #efe00f;
+    margin-top: 0px;
+    width: 295px;
+    height: 400px;
+    text-align: left;
+}
+
+#mainText{
+    background-color: #f3ffff;
+    margin-left: 170px;
+    margin-right: 300px;
+    font-size: 12pt;
+    text-align: justify;
+    padding: 10px 400px 40px 40px;
+}
+
+#footer{
+    border-top: 1px solid lightgreen;
+    border-bottom: 1px solid lightgreen;
+    background-color: #ffffee;
+    height: 60px;
+    margin-top: 0px;
+    text-align: right;
+    
+}
+
+
+
